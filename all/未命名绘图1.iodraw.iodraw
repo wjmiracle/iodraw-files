@@ -161,13 +161,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实数的大小&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;不等式的基本性质&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;作差比较法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
