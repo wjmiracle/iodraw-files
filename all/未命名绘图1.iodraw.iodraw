@@ -113,7 +113,7 @@
           <mxGeometry x="60" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;不等式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
