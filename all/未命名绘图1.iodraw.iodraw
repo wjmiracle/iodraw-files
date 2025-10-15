@@ -6,8 +6,14 @@
         <mxCell id="1" parent="0" />
         <mxCell id="tNa7aWfvbVUVwvw27iMi-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="290" as="sourcePoint" />
+            <mxPoint x="130" y="290" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNa7aWfvbVUVwvw27iMi-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="330" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
