@@ -90,8 +90,8 @@
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.89" y="292" as="sourcePoint" />
-            <mxPoint x="339.89" y="252" as="targetPoint" />
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="250" as="sourcePoint" />
-            <mxPoint x="520" y="250" as="targetPoint" />
+            <mxPoint x="339" y="250" as="sourcePoint" />
+            <mxPoint x="489" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;不等式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
