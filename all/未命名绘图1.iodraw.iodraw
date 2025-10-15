@@ -34,7 +34,7 @@
             <mxPoint x="370" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tNa7aWfvbVUVwvw27iMi-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="tNa7aWfvbVUVwvw27iMi-85">
+        <mxCell id="tNa7aWfvbVUVwvw27iMi-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="290" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
@@ -253,17 +253,11 @@
         <mxCell id="tNa7aWfvbVUVwvw27iMi-84" value="-5" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="292" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tNa7aWfvbVUVwvw27iMi-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="10" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="tNa7aWfvbVUVwvw27iMi-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="tNa7aWfvbVUVwvw27iMi-85">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="290" as="sourcePoint" />
-            <mxPoint x="240" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tNa7aWfvbVUVwvw27iMi-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="235" y="282" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
