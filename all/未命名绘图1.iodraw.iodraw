@@ -106,14 +106,11 @@
             <mxPoint x="520" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tNa7aWfvbVUVwvw27iMi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tNa7aWfvbVUVwvw27iMi-40" target="tNa7aWfvbVUVwvw27iMi-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;不等式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tNa7aWfvbVUVwvw27iMi-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;不等式的基本性质&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
