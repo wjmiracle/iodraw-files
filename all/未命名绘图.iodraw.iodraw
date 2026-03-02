@@ -34,8 +34,14 @@
         <mxCell id="QD8-gY3-uM9lDqBh8PDk-8" value="300" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QD8-gY3-uM9lDqBh8PDk-9" value="300" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="QD8-gY3-uM9lDqBh8PDk-9" value="480" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QD8-gY3-uM9lDqBh8PDk-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="204.8" as="sourcePoint" />
+            <mxPoint x="290" y="204.8" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
