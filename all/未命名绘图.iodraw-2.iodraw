@@ -19,8 +19,13 @@
         <mxCell id="690t9VJRePpqI_aFaKOj-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;实体与Boss可视化管理器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="690t9VJRePpqI_aFaKOj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="690t9VJRePpqI_aFaKOj-8" target="690t9VJRePpqI_aFaKOj-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="690t9VJRePpqI_aFaKOj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="690t9VJRePpqI_aFaKOj-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="690t9VJRePpqI_aFaKOj-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Blockbench建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="200" height="80" as="geometry" />
