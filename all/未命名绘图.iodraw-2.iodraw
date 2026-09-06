@@ -23,12 +23,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="590" />
+              <mxPoint x="395" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="690t9VJRePpqI_aFaKOj-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Blockbench建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="200" height="80" as="geometry" />
+          <mxGeometry x="60" y="260" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
