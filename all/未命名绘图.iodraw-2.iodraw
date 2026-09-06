@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="690t9VJRePpqI_aFaKOj-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;IDEA编程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="280" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="690t9VJRePpqI_aFaKOj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
