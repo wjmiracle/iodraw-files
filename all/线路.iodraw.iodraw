@@ -16,8 +16,14 @@
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;上传商品&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-7" target="Ja2xA2Pf8a2CYuFii8hi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;拍照&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
