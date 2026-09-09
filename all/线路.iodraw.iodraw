@@ -72,13 +72,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-23" value="商品基本信息 + 首帧图 + 提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-28" value="输出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.022;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-27" target="Ja2xA2Pf8a2CYuFii8hi-27">
+        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-28" value="输出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-24" target="Ja2xA2Pf8a2CYuFii8hi-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-24" value="网页版豆包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-27" target="Ja2xA2Pf8a2CYuFii8hi-29">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-27" value="视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="925.5" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="875.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-29" target="Ja2xA2Pf8a2CYuFii8hi-23">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-29" value="程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
