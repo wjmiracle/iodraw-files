@@ -36,7 +36,7 @@
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;口播视频&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-16" value="&lt;div&gt;调用方式：API&lt;/div&gt;AI模型：豆包（火山引擎）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-16" value="&lt;div&gt;调用方式：API&lt;/div&gt;AI模型：豆包（火山引擎）&lt;div&gt;黑盒逻辑：通过视频内容+提示词生成对应的商品基本信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ja2xA2Pf8a2CYuFii8hi-16">
