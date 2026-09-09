@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ouc1MGjD394PU-g2KsU-">
-    <mxGraphModel dx="1351" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
             <mxPoint x="640" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-19" value="&lt;div&gt;调用方式：API&lt;/div&gt;AI模型：豆包（火山引擎）&lt;div&gt;黑盒逻辑：通过视频内容+提示词生成对应的商品基本信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ja2xA2Pf8a2CYuFii8hi-19" value="&lt;div&gt;调用方式：API&amp;nbsp;&lt;/div&gt;AI模型：豆包（火山引擎）&lt;div&gt;黑盒逻辑：通过视频内容+提示词生成对应的商品基本信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ja2xA2Pf8a2CYuFii8hi-19">
