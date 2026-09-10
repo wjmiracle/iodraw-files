@@ -117,7 +117,7 @@
             <mxPoint x="670" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品上商城&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品上架商城&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="360" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
