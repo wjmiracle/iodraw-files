@@ -36,7 +36,7 @@
         <mxCell id="JMnGS3t_jyQLhMnuwQzr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-12" target="JMnGS3t_jyQLhMnuwQzr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JMnGS3t_jyQLhMnuwQzr-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMnGS3t_jyQLhMnuwQzr-2">
+        <mxCell id="JMnGS3t_jyQLhMnuwQzr-3" value="保存上架" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMnGS3t_jyQLhMnuwQzr-2">
           <mxGeometry x="-0.0804" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -121,6 +121,9 @@
             <mxPoint x="620" y="690" as="sourcePoint" />
             <mxPoint x="670" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JMnGS3t_jyQLhMnuwQzr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMnGS3t_jyQLhMnuwQzr-1" target="Ja2xA2Pf8a2CYuFii8hi-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="360" width="130" height="60" as="geometry" />
