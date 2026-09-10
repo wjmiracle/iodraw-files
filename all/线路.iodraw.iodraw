@@ -8,7 +8,7 @@
           <mxGeometry x="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;卖家端逻辑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ja2xA2Pf8a2CYuFii8hi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ja2xA2Pf8a2CYuFii8hi-6" target="Ja2xA2Pf8a2CYuFii8hi-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +117,7 @@
             <mxPoint x="670" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品在&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品上商城&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="360" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
