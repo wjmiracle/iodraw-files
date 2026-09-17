@@ -175,6 +175,12 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-23" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZqAyi8nowExMHGex20t-25">
           <mxGeometry x="26.25" y="90" width="86" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-30" value="&lt;div&gt;输出&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1009" width="136.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-31" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1310" width="86" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
