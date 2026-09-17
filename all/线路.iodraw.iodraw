@@ -144,8 +144,11 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-9" value="豆包API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-10" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1230" width="80" height="50" as="geometry" />
+        <mxCell id="2ZqAyi8nowExMHGex20t-11" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1080" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-12" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1090" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
