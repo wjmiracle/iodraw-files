@@ -139,7 +139,10 @@
           <mxGeometry x="560" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-7" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1100" width="86" height="50" as="geometry" />
+          <mxGeometry x="320" y="1100" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-8" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1180" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
