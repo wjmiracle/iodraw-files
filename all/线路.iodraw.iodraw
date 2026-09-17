@@ -149,10 +149,10 @@
           <mxGeometry x="-18" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-15" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1300" width="86" height="50" as="geometry" />
+          <mxGeometry x="60" y="1650" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-16" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1365" width="86" height="50" as="geometry" />
+          <mxGeometry x="60" y="1715" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370" y="1234" width="136.25" height="160" as="geometry" />
