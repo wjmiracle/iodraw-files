@@ -214,15 +214,6 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZqAyi8nowExMHGex20t-73" target="2ZqAyi8nowExMHGex20t-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-77" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="940" y="1280" width="140" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-78" value="输出&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZqAyi8nowExMHGex20t-77">
-          <mxGeometry width="140" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-79" value="四张图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2ZqAyi8nowExMHGex20t-77">
-          <mxGeometry x="27" y="45" width="86" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
