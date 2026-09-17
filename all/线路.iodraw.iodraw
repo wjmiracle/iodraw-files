@@ -140,11 +140,14 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZqAyi8nowExMHGex20t-7" target="2ZqAyi8nowExMHGex20t-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-7" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="995" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-9" value="豆包API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-15" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1300" width="86" height="50" as="geometry" />
