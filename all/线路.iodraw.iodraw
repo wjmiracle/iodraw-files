@@ -139,10 +139,7 @@
           <mxGeometry x="560" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-7" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1020" width="86" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-8" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1105" width="86" height="50" as="geometry" />
+          <mxGeometry x="347" y="1110" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-9" value="豆包API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1090" width="120" height="60" as="geometry" />
