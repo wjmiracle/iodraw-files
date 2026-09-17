@@ -120,7 +120,7 @@
         <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品上架商城&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-1" value="用户拍照" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ZqAyi8nowExMHGex20t-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-2" value="图片识别模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,10 +139,10 @@
           <mxGeometry x="560" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-7" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1100" width="86" height="50" as="geometry" />
+          <mxGeometry x="320" y="1020" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-8" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1180" width="86" height="50" as="geometry" />
+          <mxGeometry x="320" y="1105" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-9" value="豆包API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1090" width="120" height="60" as="geometry" />
