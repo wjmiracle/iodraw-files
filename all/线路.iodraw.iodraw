@@ -137,9 +137,6 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-3" value="商业图模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-5" value="&lt;h3 style=&quot;--tw-border-spacing-x: 0px; --tw-border-spacing-y: 0px; --tw-translate-x: 0; --tw-translate-y: 0; --tw-translate-z: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scale-z: 1; --tw-space-y-reverse: 0; --tw-space-x-reverse: 0; --tw-divide-x-reverse: 0; --tw-border-style: solid; --tw-divide-y-reverse: 0; --tw-gradient-from: rgba(0, 0, 0, 0); --tw-gradient-via: rgba(0, 0, 0, 0); --tw-gradient-to: rgba(0, 0, 0, 0); --tw-gradient-from-position: 0%; --tw-gradient-via-position: 50%; --tw-gradient-to-position: 100%; --tw-shadow: 0 0 #0000; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #0000; --tw-inset-shadow-alpha: 100%; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-shadow: 0 0 #0000; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000; --tw-outline-style: solid; --tw-drop-shadow-alpha: 100%; --tw-content: &amp;quot;&amp;quot;; box-sizing: border-box; margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px solid rgba(0, 0, 0, 0.075); font-size: 16px; font-weight: 500; line-height: 1.5; --tw-font-weight: 500; color: rgb(16, 16, 16); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; text-align: start; background-color: rgb(249, 249, 249); margin-top: 0px !important; margin-bottom: 4px !important;&quot; id=&quot;user-content-模块-1多模态商品分析模块-modulesanalyzer&quot;&gt;多模态商品分析模块&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1320" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -154,6 +151,12 @@
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-16" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1365" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-22" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1035" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-23" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1100" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
