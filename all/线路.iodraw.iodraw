@@ -184,8 +184,8 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-62" value="输出&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1585" width="140" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-63" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1375" width="86" height="50" as="geometry" />
+        <mxCell id="2ZqAyi8nowExMHGex20t-63" value="视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947" y="1630" width="86" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
