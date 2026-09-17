@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-34" value="UI界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1305" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="1305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="691" y="1270" width="136.25" height="160" as="geometry" />
@@ -258,7 +258,7 @@
             <mxPoint x="1150" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="2ZqAyi8nowExMHGex20t-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ZqAyi8nowExMHGex20t-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1204.75" y="1340" as="targetPoint" />
             <mxPoint x="1110" y="1660" as="sourcePoint" />
