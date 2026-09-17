@@ -150,6 +150,12 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-12" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="1135" width="86" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-13" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1200" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-14" value="提示词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1260" width="86" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
