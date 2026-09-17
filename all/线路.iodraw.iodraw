@@ -120,6 +120,14 @@
         <mxCell id="JMnGS3t_jyQLhMnuwQzr-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;商品上架商城&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="360" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ZqAyi8nowExMHGex20t-1" target="2ZqAyi8nowExMHGex20t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2ZqAyi8nowExMHGex20t-17">
+          <mxGeometry x="-0.037" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -136,7 +144,7 @@
           <mxGeometry x="650" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-7" value="首帧图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1060" width="86" height="50" as="geometry" />
