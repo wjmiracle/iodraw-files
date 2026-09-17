@@ -123,7 +123,7 @@
         <mxCell id="2ZqAyi8nowExMHGex20t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ZqAyi8nowExMHGex20t-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ZqAyi8nowExMHGex20t-2" value="图片识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="2ZqAyi8nowExMHGex20t-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZqAyi8nowExMHGex20t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
