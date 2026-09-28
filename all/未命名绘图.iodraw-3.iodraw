@@ -32,7 +32,7 @@
         <mxCell id="7JT1OTyvc58kt1-j8YcN-6" value="3D模型（glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7JT1OTyvc58kt1-j8YcN-9" value="3D模型（glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-9" value="动作（fbx文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
