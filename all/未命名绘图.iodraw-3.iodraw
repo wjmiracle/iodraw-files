@@ -24,6 +24,11 @@
         <mxCell id="7JT1OTyvc58kt1-j8YcN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7JT1OTyvc58kt1-j8YcN-6" target="7JT1OTyvc58kt1-j8YcN-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-11" value="mixamo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7JT1OTyvc58kt1-j8YcN-10">
+          <mxGeometry x="-0.0958" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7JT1OTyvc58kt1-j8YcN-6" value="3D模型（glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
         </mxCell>
