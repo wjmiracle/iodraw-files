@@ -16,13 +16,19 @@
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7JT1OTyvc58kt1-j8YcN-2" value="3D（某种状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7JT1OTyvc58kt1-j8YcN-4" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7JT1OTyvc58kt1-j8YcN-6" target="7JT1OTyvc58kt1-j8YcN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7JT1OTyvc58kt1-j8YcN-6" value="3D模型（glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-9" value="3D模型（glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
