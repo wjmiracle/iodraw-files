@@ -21,7 +21,7 @@
         <mxCell id="7JT1OTyvc58kt1-j8YcN-4" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7JT1OTyvc58kt1-j8YcN-6" value="2D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-6" value="glb文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
