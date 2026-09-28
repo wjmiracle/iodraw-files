@@ -15,9 +15,6 @@
         <mxCell id="7JT1OTyvc58kt1-j8YcN-1" value="头：2D图片（全身纯白色背景主体图片）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7JT1OTyvc58kt1-j8YcN-2" value="3D（某种状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7JT1OTyvc58kt1-j8YcN-4" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,7 +40,7 @@
         <mxCell id="7JT1OTyvc58kt1-j8YcN-9" value="动作（fbx文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7JT1OTyvc58kt1-j8YcN-12" value="动作（fbx文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7JT1OTyvc58kt1-j8YcN-12" value="动作+模型 （glb文件）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
