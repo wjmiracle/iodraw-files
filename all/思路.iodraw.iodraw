@@ -54,7 +54,7 @@
         <mxCell id="etbhvYTWRo9-MGTmByK8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="etbhvYTWRo9-MGTmByK8-1" target="etbhvYTWRo9-MGTmByK8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="etbhvYTWRo9-MGTmByK8-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="etbhvYTWRo9-MGTmByK8-6">
+        <mxCell id="etbhvYTWRo9-MGTmByK8-7" value="antigravity模型脚本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="etbhvYTWRo9-MGTmByK8-6">
           <mxGeometry x="0.0257" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -66,7 +66,7 @@
           <mxGeometry x="1040" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etbhvYTWRo9-MGTmByK8-5" value="模型脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
