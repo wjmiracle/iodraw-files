@@ -10,8 +10,14 @@
         <mxCell id="Tl15U7MoarBLu8PPA9Q3-1" value="明白AI自动化生意的机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tl15U7MoarBLu8PPA9Q3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tl15U7MoarBLu8PPA9Q3-2" target="Tl15U7MoarBLu8PPA9Q3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tl15U7MoarBLu8PPA9Q3-2" value="进一步分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl15U7MoarBLu8PPA9Q3-4" value="进一步分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
