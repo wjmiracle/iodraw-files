@@ -16,8 +16,14 @@
         <mxCell id="Tl15U7MoarBLu8PPA9Q3-2" value="进一步分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tl15U7MoarBLu8PPA9Q3-4" value="进一步分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tl15U7MoarBLu8PPA9Q3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tl15U7MoarBLu8PPA9Q3-4" target="Tl15U7MoarBLu8PPA9Q3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl15U7MoarBLu8PPA9Q3-4" value="具体实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tl15U7MoarBLu8PPA9Q3-6" value="具体实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
