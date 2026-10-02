@@ -65,7 +65,7 @@
         <mxCell id="etbhvYTWRo9-MGTmByK8-2" value="尾：3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="etbhvYTWRo9-MGTmByK8-5" value="模型脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="etbhvYTWRo9-MGTmByK8-5" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
