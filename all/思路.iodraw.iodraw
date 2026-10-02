@@ -65,8 +65,19 @@
         <mxCell id="etbhvYTWRo9-MGTmByK8-2" value="尾：3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="etbhvYTWRo9-MGTmByK8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="etbhvYTWRo9-MGTmByK8-5" target="etbhvYTWRo9-MGTmByK8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etbhvYTWRo9-MGTmByK8-10" value="antigravity动作脚本器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="etbhvYTWRo9-MGTmByK8-9">
+          <mxGeometry x="0.0894" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="etbhvYTWRo9-MGTmByK8-5" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="etbhvYTWRo9-MGTmByK8-8" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
