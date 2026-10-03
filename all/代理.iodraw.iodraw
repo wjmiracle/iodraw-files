@@ -16,8 +16,20 @@
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--2" value="window网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--4" target="cNh7Jp4Q9cLtDXCbc7h--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--4" value="window网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--6" target="cNh7Jp4Q9cLtDXCbc7h--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--6" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--8" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
