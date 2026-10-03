@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="etbhvYTWRo9-MGTmByK8-5" value="3D（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="380" width="150" height="60" as="geometry" />
+          <mxGeometry x="580" y="380" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etbhvYTWRo9-MGTmByK8-8" value="尾：3D模型+动作（MC状态）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="380" width="110" height="60" as="geometry" />
+          <mxGeometry x="1040" y="380" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
