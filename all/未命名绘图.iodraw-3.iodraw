@@ -37,7 +37,7 @@
         <mxCell id="no3MCZIC0SB-p6ljMkW3-11" value="阶段4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="no3MCZIC0SB-p6ljMkW3-12" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="no3MCZIC0SB-p6ljMkW3-12" value="1.数值平衡调整&lt;div&gt;2.逻辑机制分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="no3MCZIC0SB-p6ljMkW3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="no3MCZIC0SB-p6ljMkW3-14" target="no3MCZIC0SB-p6ljMkW3-15">
