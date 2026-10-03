@@ -28,8 +28,35 @@
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--6" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--8" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--8" value="openai.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--11" target="cNh7Jp4Q9cLtDXCbc7h--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--11" value="chrome" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--13" target="cNh7Jp4Q9cLtDXCbc7h--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--13" value="window网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--15" target="cNh7Jp4Q9cLtDXCbc7h--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--15" value="window网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--17" target="cNh7Jp4Q9cLtDXCbc7h--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--17" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--18" value="openai.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
