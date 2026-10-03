@@ -8,10 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="no3MCZIC0SB-p6ljMkW3-1" value="阶段1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="no3MCZIC0SB-p6ljMkW3-2" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no3MCZIC0SB-p6ljMkW3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="no3MCZIC0SB-p6ljMkW3-5" target="no3MCZIC0SB-p6ljMkW3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="no3MCZIC0SB-p6ljMkW3-5" value="阶段1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="no3MCZIC0SB-p6ljMkW3-6" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
