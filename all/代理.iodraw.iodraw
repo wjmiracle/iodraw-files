@@ -46,13 +46,13 @@
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--24" target="cNh7Jp4Q9cLtDXCbc7h--26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--24" value="window网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--24" value="代理客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cNh7Jp4Q9cLtDXCbc7h--26" target="cNh7Jp4Q9cLtDXCbc7h--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--26" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNh7Jp4Q9cLtDXCbc7h--26" value="远程代理服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNh7Jp4Q9cLtDXCbc7h--27" value="openai.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
