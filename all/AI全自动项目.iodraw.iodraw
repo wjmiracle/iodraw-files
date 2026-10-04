@@ -9,11 +9,13 @@
             <mxPoint x="230" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ho9zzB_u8ZxlRq-QHC7S-6" value="&lt;li style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;24×7 不关机&lt;/li&gt;&lt;li style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;你外出时也持续运行&lt;/li&gt;&lt;li style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;不占用你的主力电脑&lt;/li&gt;&lt;li style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;同时跑多个 Agent / Docker / 测试环境&lt;/li&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ho9zzB_u8ZxlRq-QHC7S-3">
+          <mxGeometry x="0.1897" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ho9zzB_u8ZxlRq-QHC7S-1" value="1.系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ho9zzB_u8ZxlRq-QHC7S-5" value="&lt;li style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;24×7 不关机&lt;/li&gt;&lt;li style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;你外出时也持续运行&lt;/li&gt;&lt;li style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;不占用你的主力电脑&lt;/li&gt;&lt;li style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;同时跑多个 Agent / Docker / 测试环境&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
