@@ -49,6 +49,9 @@
         <mxCell id="no3MCZIC0SB-p6ljMkW3-15" value="接入自创mod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="no3MCZIC0SB-p6ljMkW3-16" value="装备系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
