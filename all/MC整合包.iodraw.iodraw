@@ -64,8 +64,8 @@
         <mxCell id="vbObcgJw7MZyfZbHfZPi-1" value="基础：生命，物攻，护甲，移速&lt;div&gt;法术：魔攻，魔抗，能量上限&lt;/div&gt;&lt;div&gt;战斗：暴击率，暴击伤害，穿透，稳定度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="700" width="260" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-3" value="装备系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-3" value="原版材料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
