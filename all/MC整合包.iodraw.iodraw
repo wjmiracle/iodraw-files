@@ -70,10 +70,10 @@
         <mxCell id="vbObcgJw7MZyfZbHfZPi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vbObcgJw7MZyfZbHfZPi-6" target="vbObcgJw7MZyfZbHfZPi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-6" value="装备系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-6" value="矿物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-7" value="&lt;div&gt;【单独UI界面+插入“1”】&lt;/div&gt;武器：&lt;div&gt;装备：&lt;/div&gt;&lt;div&gt;工具：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="840" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
