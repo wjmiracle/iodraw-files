@@ -88,11 +88,11 @@
         <mxCell id="w_3lgOuTTfYVimEJarF3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_3lgOuTTfYVimEJarF3-2" target="w_3lgOuTTfYVimEJarF3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w_3lgOuTTfYVimEJarF3-2" value="维度系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="w_3lgOuTTfYVimEJarF3-2" value="职业系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_3lgOuTTfYVimEJarF3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="510" width="260" height="140" as="geometry" />
+          <mxGeometry x="880" y="670" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
