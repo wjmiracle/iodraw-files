@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="C-OPzh0-npzs-Z8T3RYb">
-    <mxGraphModel dx="1113" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,22 +103,22 @@
         <mxCell id="w_3lgOuTTfYVimEJarF3-6" value="区别与原版等级，属性随着升级增长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="840" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le2UKN7Owcv52gc9H8yP-2" target="le2UKN7Owcv52gc9H8yP-3">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="le2UKN7Owcv52gc9H8yP-2" target="le2UKN7Owcv52gc9H8yP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-2" value="怪物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-2" value="怪物系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="370" y="1000" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le2UKN7Owcv52gc9H8yP-5" target="le2UKN7Owcv52gc9H8yP-6">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="le2UKN7Owcv52gc9H8yP-5" target="le2UKN7Owcv52gc9H8yP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-5" value="任务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-5" value="任务系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="1000" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
