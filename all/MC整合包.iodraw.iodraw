@@ -61,7 +61,7 @@
         <mxCell id="no3MCZIC0SB-p6ljMkW3-17" value="属性系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="707.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-1" value="基础：生命，物攻，护甲，移速&lt;div&gt;法术：魔攻，魔抗，能量上限&lt;/div&gt;&lt;div&gt;战斗：暴击率，暴击伤害，穿透，稳定度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-1" value="生命，物攻，护甲，移速&lt;span style=&quot;background-color: initial;&quot;&gt;，魔攻，魔抗，能量上限，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;暴击率，暴击伤害，穿透，稳定度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="670" width="260" height="135" as="geometry" />
         </mxCell>
         <mxCell id="vbObcgJw7MZyfZbHfZPi-3" value="&lt;div&gt;【单独UI界面+插入“1”】&lt;/div&gt;武器：&lt;div&gt;装备：&lt;/div&gt;&lt;div&gt;工具：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
