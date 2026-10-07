@@ -61,10 +61,10 @@
         <mxCell id="no3MCZIC0SB-p6ljMkW3-17" value="属性系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="707.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-1" value="生命，物攻，护甲，移速&lt;span style=&quot;background-color: initial;&quot;&gt;，魔攻，魔抗，能量上限，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;暴击率，暴击伤害，穿透，稳定度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-1" value="生命，物攻，护甲，移速&lt;span style=&quot;background-color: initial;&quot;&gt;，魔攻，魔抗，能量上限，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;暴击率，暴击伤害，穿透，稳定度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="370" y="670" width="260" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-3" value="&lt;div&gt;【单独UI界面+插入“1”】&lt;/div&gt;武器：&lt;div&gt;装备：&lt;/div&gt;&lt;div&gt;工具：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-3" value="&lt;div&gt;【单独UI界面+插入“1”】&lt;/div&gt;武器：&lt;div&gt;装备：&lt;/div&gt;&lt;div&gt;工具：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="370" y="500" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vbObcgJw7MZyfZbHfZPi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vbObcgJw7MZyfZbHfZPi-6" target="vbObcgJw7MZyfZbHfZPi-7" edge="1">
@@ -109,7 +109,7 @@
         <mxCell id="le2UKN7Owcv52gc9H8yP-2" value="怪物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="le2UKN7Owcv52gc9H8yP-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le2UKN7Owcv52gc9H8yP-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="370" y="1000" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="le2UKN7Owcv52gc9H8yP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le2UKN7Owcv52gc9H8yP-5" target="le2UKN7Owcv52gc9H8yP-6">
