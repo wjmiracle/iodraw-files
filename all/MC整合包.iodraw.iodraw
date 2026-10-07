@@ -112,6 +112,15 @@
         <mxCell id="le2UKN7Owcv52gc9H8yP-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1000" width="260" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="le2UKN7Owcv52gc9H8yP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le2UKN7Owcv52gc9H8yP-5" target="le2UKN7Owcv52gc9H8yP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="le2UKN7Owcv52gc9H8yP-5" value="元素系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="le2UKN7Owcv52gc9H8yP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1000" width="260" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
