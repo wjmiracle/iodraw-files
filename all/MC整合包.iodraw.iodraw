@@ -73,7 +73,7 @@
         <mxCell id="vbObcgJw7MZyfZbHfZPi-6" value="矿物系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-7" value="主世界/下届/末地/模组维度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="840" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vbObcgJw7MZyfZbHfZPi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vbObcgJw7MZyfZbHfZPi-9" target="vbObcgJw7MZyfZbHfZPi-10" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="vbObcgJw7MZyfZbHfZPi-9" value="维度系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vbObcgJw7MZyfZbHfZPi-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vbObcgJw7MZyfZbHfZPi-10" value="boss维度/自然维度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="500" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="w_3lgOuTTfYVimEJarF3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w_3lgOuTTfYVimEJarF3-2" target="w_3lgOuTTfYVimEJarF3-3" edge="1">
