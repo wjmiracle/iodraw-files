@@ -124,10 +124,10 @@
         <mxCell id="Lj-au7gOD184SxEmWfb3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lj-au7gOD184SxEmWfb3-2" target="Lj-au7gOD184SxEmWfb3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lj-au7gOD184SxEmWfb3-2" value="怪物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lj-au7gOD184SxEmWfb3-2" value="商场系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lj-au7gOD184SxEmWfb3-3" value="boss/敌对生物/中立生物" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Lj-au7gOD184SxEmWfb3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="370" y="1160" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
