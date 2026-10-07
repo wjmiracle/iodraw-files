@@ -100,7 +100,7 @@
         <mxCell id="w_3lgOuTTfYVimEJarF3-5" value="升级系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_3lgOuTTfYVimEJarF3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w_3lgOuTTfYVimEJarF3-6" value="属性随着升级增长" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="840" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="le2UKN7Owcv52gc9H8yP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le2UKN7Owcv52gc9H8yP-2" target="le2UKN7Owcv52gc9H8yP-3">
