@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" compressed="false" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17" pages="6">
   <diagram id="xuanji-main" name="01 游戏主干">
-    <mxGraphModel dx="1351" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1040" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1040" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           <mxGeometry x="1476" y="743" width="136" height="24" as="geometry" />
         </mxCell>
         <mxCell id="xuanji-main-v34" value="关键原则：角色可以有十一项属性；装备只展示本件真实定义的字段，铁剑不会自动获得魔攻或魔抗。&#xa;武器范围来自 Better Combat 的适配参数；“枪”先指枪矛。枪械、装填与复杂分支放在 V1 之后。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F6F8FB;strokeColor=none;strokeWidth=1.2;fontColor=#4C6076;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="56" y="934" width="1568" height="76" as="geometry" />
+          <mxGeometry x="56" y="1020" width="1568" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
