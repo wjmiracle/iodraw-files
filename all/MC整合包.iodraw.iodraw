@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xuanji-digit" name="03 数字1与面板">
-    <mxGraphModel dx="1351" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1330" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1330" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xuanji-professions" name="04 六职业与技能">
-    <mxGraphModel dx="1113" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1140" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1140" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
