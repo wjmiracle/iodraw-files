@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" compressed="false" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17" pages="6">
   <diagram id="xuanji-main" name="01 游戏主干">
-    <mxGraphModel dx="1351" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1040" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1040" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,11 +136,8 @@
         <mxCell id="qJOvzxrGEsw-1H0i6xyr-2" value="商店系统" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#8D9CAD;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=9;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="56" y="964" width="134" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qJOvzxrGEsw-1H0i6xyr-3" value="原版：敌对 / 中立 / 被动生态继续保留&#xa;敌对精英：默认 8% · 强韧 / 凶猛 / 迅捷&#xa;自制：普通怪 / 区域精英 / 小型 Boss / 领主&#xa;已有第一章原型；待后续生态与原创美术" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" vertex="1" parent="1">
+        <mxCell id="qJOvzxrGEsw-1H0i6xyr-3" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="234" y="929" width="574" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="qJOvzxrGEsw-1H0i6xyr-4" value="部分" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="920" width="136" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
