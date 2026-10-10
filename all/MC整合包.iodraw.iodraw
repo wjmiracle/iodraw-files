@@ -143,10 +143,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6BWJo2brVckfifEkRqCN-2" value="商店系统" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#8D9CAD;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=9;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="66" y="974" width="134" height="80" as="geometry" />
+          <mxGeometry x="870.5" y="964" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6BWJo2brVckfifEkRqCN-3" value="主城添加一个NPC专门出售物品和收购物品，任何东西根据稀有度和实用度做对应的估价" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="244" y="939" width="574" height="150" as="geometry" />
+          <mxGeometry x="1048.5" y="929" width="574" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
