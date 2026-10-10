@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" compressed="false" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="6">
   <diagram id="xuanji-main" name="01 游戏主干">
-    <mxGraphModel dx="1261" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1240" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1240" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="xuanji-main-v31" value="任务系统" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#8D9CAD;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=9;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="787" width="134" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xuanji-main-v32" value="主线 / 采矿 / 讨伐 / 收集 / 探索 / 职业 / 特殊&#xa;领取交付找 NPC；任务书随时查看&#xa;前置 / 分次交付 / 重复冷却 / 奖励保管&#xa;已有 9 份委托；后续主支线与剧情待扩展" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
+        <mxCell id="xuanji-main-v32" value="&#xa;任务分为SSS，SS，S，A，B，C，D，T（特殊）级别，每真实半小时刷新一次，任务会有很多种类型（打怪，打boss，采矿，探险，收集材料，特殊任务等等），奖励按照级别发放，" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="752" width="574" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xuanji-main-v33" value="部分" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
