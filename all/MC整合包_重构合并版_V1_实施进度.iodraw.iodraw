@@ -1470,171 +1470,171 @@
     </mxGraphModel>
   </diagram>
   <diagram id="merged-10" name="10 合并裁定与待定规则">
-    <mxGraphModel dx="1680" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1440" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1440" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="merged-10-v1" value="10  合并裁定与待定规则" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=32;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v1" value="10  合并裁定与待定规则" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=32;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="32" width="1330" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v2" value="轩极 · 重构合并 V1" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#2563A6;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=right;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v2" value="轩极 · 重构合并 V1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#2563A6;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=right;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1350" y="40" width="274" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v3" value="列出冲突的最终处理和未指定的规则；保持来源可追溯，避免把推测写成已经决定的玩法。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#5A6B7D;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v3" value="列出冲突的最终处理和未指定的规则；保持来源可追溯，避免把推测写成已经决定的玩法。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#5A6B7D;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="98" width="1568" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v4" value="绿色：已有 / 当前已接入" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#E7F3EB;strokeColor=none;strokeWidth=1.2;fontColor=#287347;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;">
+        <mxCell id="merged-10-v4" value="绿色：已有 / 当前已接入" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#E7F3EB;strokeColor=none;strokeWidth=1.2;fontColor=#287347;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="151" width="270" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v5" value="黄色：重构 / 部分待补" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;">
+        <mxCell id="merged-10-v5" value="黄色：重构 / 部分待补" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="346" y="151" width="285" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v6" value="蓝色：新增或原计划待做" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EDF3FB;strokeColor=none;strokeWidth=1.2;fontColor=#2563A6;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;">
+        <mxCell id="merged-10-v6" value="蓝色：新增或原计划待做" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EDF3FB;strokeColor=none;strokeWidth=1.2;fontColor=#2563A6;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="651" y="151" width="300" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v7" value="紫色：初值 / 待定规则" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;">
+        <mxCell id="merged-10-v7" value="紫色：初值 / 待定规则" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacing=5;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="971" y="151" width="230" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v8" value="实施 0.16.0 · 2026-10-11" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#697687;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=0;align=right;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v8" value="实施 0.16.0 · 2026-10-11" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#697687;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=0;align=right;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1210" y="151" width="414" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v9" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v9" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="205" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v10" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v10" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="205" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v11" value="裁定 1 · 职业与技能" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v11" value="裁定 1 · 职业与技能" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="219" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v12" value="按 MD 重构" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v12" value="按 MD 重构" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="221" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v13" value="原图：六职业选择与逐级成长；MD：自由 Build。&#xa;当前：无入职 / Lv 门槛，保留 30 技能与伙伴。&#xa;旧职业 / 等级归档，已学技能与改写继续保留。&#xa;旧剩余训练点一次换研究记录，每点 100。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" mergeSourceCellIds="xuanji-main-v20,xuanji-professions-v31">
+        <mxCell id="merged-10-v13" value="原图：六职业选择与逐级成长；MD：自由 Build。&#xa;当前：无入职 / Lv 门槛，保留 30 技能与伙伴。&#xa;旧职业 / 等级归档，已学技能与改写继续保留。&#xa;旧剩余训练点一次换研究记录，每点 100。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1" mergeSourceCellIds="xuanji-main-v20,xuanji-professions-v31">
           <mxGeometry x="56" y="262" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v14" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v14" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="205" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v15" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v15" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="205" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v16" value="裁定 2 · 升级与章节" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v16" value="裁定 2 · 升级与章节" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="219" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v17" value="按 MD 重构" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v17" value="按 MD 重构" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1406" y="221" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v18" value="原图：按职业逐级成长、Lv 技能门槛、六章推进。&#xa;MD：Boss 与改写推动四个世界阶段。&#xa;最终：取消旧等级门禁和按职成长，取消线性章节。&#xa;保留原版绿经验、地区故事、资源与 Boss 素材。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" mergeSourceCellIds="xuanji-main-v26,xuanji-campaign-v35">
+        <mxCell id="merged-10-v18" value="原图：按职业逐级成长、Lv 技能门槛、六章推进。&#xa;MD：Boss 与改写推动四个世界阶段。&#xa;最终：取消旧等级门禁和按职成长，取消线性章节。&#xa;保留原版绿经验、地区故事、资源与 Boss 素材。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1" mergeSourceCellIds="xuanji-main-v26,xuanji-campaign-v35">
           <mxGeometry x="872" y="262" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v19" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v19" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="425.4" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v20" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v20" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="425.4" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v21" value="裁定 3 · 改写锁" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v21" value="裁定 3 · 改写锁" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="439.4" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v22" value="按 MD 重构" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v22" value="按 MD 重构" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="441.4" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v23" value="原图：道具解锁后可再次改写，旧解锁自动补偿。&#xa;MD：一次选择一个方向，修改后永久锁定。&#xa;最终：永久锁；解锁道具、解锁配方与补偿机制退出。&#xa;普通修理、升阶与迁移不能绕过永久锁。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" mergeSourceCellIds="xuanji-digit-v47,xuanji-digit-v49">
+        <mxCell id="merged-10-v23" value="原图：道具解锁后可再次改写，旧解锁自动补偿。&#xa;MD：一次选择一个方向，修改后永久锁定。&#xa;最终：永久锁；解锁道具、解锁配方与补偿机制退出。&#xa;普通修理、升阶与迁移不能绕过永久锁。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1" mergeSourceCellIds="xuanji-digit-v47,xuanji-digit-v49">
           <mxGeometry x="56" y="482.4" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v24" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v24" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="425.4" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v25" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v25" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="425.4" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v26" value="裁定 4 · 主城与维度" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v26" value="裁定 4 · 主城与维度" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="439.4" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v27" value="按 MD 重构" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v27" value="按 MD 重构" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1406" y="441.4" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v28" value="原图：主世界大型城堡，地区按六章顺序开放。&#xa;MD：起源营地成长；八维度作为探索空间。&#xa;最终：以营地为主，保留 NPC 服务与私人基地。&#xa;八维度全部纳入 V1；旧探索区与战场继续保留。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" mergeSourceCellIds="xuanji-services-v9,xuanji-main-v14">
+        <mxCell id="merged-10-v28" value="原图：主世界大型城堡，地区按六章顺序开放。&#xa;MD：起源营地成长；八维度作为探索空间。&#xa;最终：以营地为主，保留 NPC 服务与私人基地。&#xa;八维度全部纳入 V1；旧探索区与战场继续保留。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1" mergeSourceCellIds="xuanji-services-v9,xuanji-main-v14">
           <mxGeometry x="872" y="482.4" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v29" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v29" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="645.8" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v30" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v30" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#926216;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="645.8" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v31" value="无冲突内容 · 合并保留" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v31" value="无冲突内容 · 合并保留" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="659.8" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v32" value="部分已有 · 待补齐" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v32" value="部分已有 · 待补齐" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF3DD;strokeColor=none;strokeWidth=1.2;fontColor=#926216;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="661.8" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v33" value="装备、十一属性、原版生态、精英、矿物与加工。&#xa;战斗、委托、商店、NPC、补给、生活与私人建设。&#xa;死亡重试、存档、界面、图鉴、合作与终局计划。&#xa;全部主题区域、技能名、资源链、Boss、工坊与进度。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
+        <mxCell id="merged-10-v33" value="装备、十一属性、原版生态、精英、矿物与加工。&#xa;战斗、委托、商店、NPC、补给、生活与私人建设。&#xa;死亡重试、存档、界面、图鉴、合作与终局计划。&#xa;全部主题区域、技能名、资源链、Boss、工坊与进度。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="702.8" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v34" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v34" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="645.8" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v35" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v35" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="645.8" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v36" value="规则疑点 · MD 数字示例" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v36" value="规则疑点 · MD 数字示例" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="659.8" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v37" value="规则待定" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v37" value="规则待定" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1406" y="661.8" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v38" value="稳定 10→100 不符合插入 1，未制作假效果。&#xa;合法位置示例 10→110 / 101，维持字面插入。&#xa;冷却 10→110 真实增加时间，不暗中取反。&#xa;新算子 / 分支收益仍需明确后再制作。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
+        <mxCell id="merged-10-v38" value="稳定 10→100 不符合插入 1，未制作假效果。&#xa;合法位置示例 10→110 / 101，维持字面插入。&#xa;冷却 10→110 真实增加时间，不暗中取反。&#xa;新算子 / 分支收益仍需明确后再制作。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="702.8" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v39" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v39" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="866.1999999999999" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v40" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v40" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="866.1999999999999" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v41" value="已采用初值 · 可再调整" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v41" value="已采用初值 · 可再调整" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="880.1999999999999" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v42" value="初值已落地" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v42" value="初值已落地" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="882.1999999999999" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v43" value="阶段门槛：Boss/改写 1/1、3/3、4/6，可配置。&#xa;个人计不同类型，重复正常掉落；营地外观保留升级。&#xa;技能槽 2 被动 + R/G 主动 + H 必杀，无固定职业。&#xa;Boss 记忆学习，研究记录训练，详情见 V16 说明。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
+        <mxCell id="merged-10-v43" value="阶段门槛：Boss/改写 1/1、3/3、4/6，可配置。&#xa;个人计不同类型，重复正常掉落；营地外观保留升级。&#xa;技能槽 2 被动 + R/G 主动 + H 必杀，无固定职业。&#xa;Boss 记忆学习，研究记录训练，详情见 V16 说明。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="923.1999999999999" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v44" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v44" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="866.1999999999999" width="752" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v45" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v45" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="866.1999999999999" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v46" value="待定 · 第一版内容与迁移" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v46" value="待定 · 第一版内容与迁移" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="880.1999999999999" width="512" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v47" value="规则待定" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v47" value="规则待定" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1406" y="882.1999999999999" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v48" value="约 20 Boss 名单、八维度的五个新维度待制作。&#xa;锁 / 数值 / 技能 / 旧成长归档迁移已接入。&#xa;旧城堡保留，真末影仓库，营地三外观已接入。&#xa;异常事件已做一种；规则异常和终局继续制作。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
+        <mxCell id="merged-10-v48" value="约 20 Boss 名单、八维度的五个新维度待制作。&#xa;锁 / 数值 / 技能 / 旧成长归档迁移已接入。&#xa;旧城堡保留，真末影仓库，营地三外观已接入。&#xa;异常事件已做一种；规则异常和终局继续制作。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="872" y="923.1999999999999" width="752" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v49" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v49" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD3DC;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="1086.6" width="1568" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v50" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v50" value="" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#7753A3;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="1086.6" width="5" height="196.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v51" value="文件来源与交付边界" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;">
+        <mxCell id="merged-10-v51" value="文件来源与交付边界" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;align=left;verticalAlign=middle;spacing=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="74" y="1100.6" width="1328" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v52" value="0.16.0 · 实施进度副本" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;">
+        <mxCell id="merged-10-v52" value="0.16.0 · 实施进度副本" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F2ECFA;strokeColor=none;strokeWidth=1.2;fontColor=#7753A3;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;spacing=4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1406" y="1102.6" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v53" value="设计来源：MC整合包_重构合并版_V1.iodraw，原输入保持原样。&#xa;实施说明：工程 00_工程规范与心流设计/V1_REFACTOR_V16.md。&#xa;可编辑进度图：本文件 10 页；接口、初值和待做状态已同步。&#xa;测试报告：工程 03_自检与构建工具/reports；详细完成状态见当前基线。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
+        <mxCell id="merged-10-v53" value="设计来源：MC整合包_重构合并版_V1.iodraw，原输入保持原样。&#xa;实施说明：工程 00_工程规范与心流设计/V1_REFACTOR_V16.md。&#xa;可编辑进度图：本文件 10 页；接口、初值和待做状态已同步。&#xa;测试报告：工程 03_自检与构建工具/reports；详细完成状态见当前基线。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;strokeWidth=1.2;fontColor=#263549;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="56" y="1143.6" width="1568" height="127.39999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="merged-10-v54" value="合并约束：MD 规定的目标优先；未冲突的原图内容保留；未知数值与设计选择明确待定。&#xa;源单元格引用保存在新图节点的 mergeSourceCellIds 属性中，便于核对来源与旧进度。" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F6F8FB;strokeColor=none;strokeWidth=1.2;fontColor=#4C6076;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;">
-          <mxGeometry x="56" y="1309.0" width="1568" height="74" as="geometry" />
+        <mxCell id="merged-10-v54" value="合并约束：MD 规定的目标优先；未冲突的原图内容保留；未知数值与设计选择明确待定。&#xa;源单元格引用保存在新图节点的 mergeSourceCellIds 属性中，便于核对来源与旧进度。" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F6F8FB;strokeColor=none;strokeWidth=1.2;fontColor=#4C6076;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=0;align=left;verticalAlign=middle;spacing=18;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1309" width="1568" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
