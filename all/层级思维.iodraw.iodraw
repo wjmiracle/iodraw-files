@@ -49,7 +49,7 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-15" target="5oUdAyijGCzZewXP4lFF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oUdAyijGCzZewXP4lFF-15" value="1.20.1forge版本模组物品材质一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUdAyijGCzZewXP4lFF-15" value="1.20.1forge版本模组物品打包一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="540" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
