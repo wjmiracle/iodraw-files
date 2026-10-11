@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" compressed="false" mergePolicy="MD overrides repeated or contradictory content; preserve non-conflicting progress and content" progressSource="D:\Desktop\MC整合包.iodraw" requirementSource="C:\Users\34543\Downloads\MC整合包核心设计方案_V1.md" progressSourceSha256="2ad7ef3c6657f31aea4c04fb18e54062aab7b57989033f0d462d28fec434066a" requirementSourceSha256="449067a8dc4b1b02fb3a9f86138ff1195002b80b26920d354e1cf4c276cd4245" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17" pages="10">
   <diagram id="merged-01" name="01 核心定位与游戏循环">
-    <mxGraphModel dx="946" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1180" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1680" pageHeight="1180" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
