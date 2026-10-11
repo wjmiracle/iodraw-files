@@ -58,9 +58,12 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-20" value="1.20.1forge版本模组方块一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5oUdAyijGCzZewXP4lFF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-24">
+        <mxCell id="5oUdAyijGCzZewXP4lFF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-24" target="5oUdAyijGCzZewXP4lFF-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="835" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-24" value="1.20.1forge版本模组方块一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
