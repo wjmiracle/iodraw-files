@@ -7,7 +7,7 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-1" target="5oUdAyijGCzZewXP4lFF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oUdAyijGCzZewXP4lFF-1" value="1.18.2forge版本模组物品添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5oUdAyijGCzZewXP4lFF-1" value="1.18.2forge版本模组物品一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-2" value="1.18.2forge版本模组一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
