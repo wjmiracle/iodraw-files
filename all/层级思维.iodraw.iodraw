@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iaNd5wgWu3V6BVqTQHDU">
-    <mxGraphModel dx="946" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,6 +19,9 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-2" value="1.18.2forge版本模组一键添加器&lt;div&gt;（物品，方块，实体，装备等等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="210" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="5oUdAyijGCzZewXP4lFF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-4" target="5oUdAyijGCzZewXP4lFF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-4" value="1.18.2forge/Fabric/Neo版本模组一键添加器&lt;div&gt;（物品，方块，实体，装备等等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="140" width="250" height="100" as="geometry" />
         </mxCell>
@@ -28,8 +31,8 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-6" value="全版本forge版本模组一键添加器&lt;div&gt;（物品，方块，实体，装备等等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5oUdAyijGCzZewXP4lFF-8" value="全版本forge版本模组一键添加器&lt;div&gt;（物品，方块，实体，装备等等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" width="250" height="100" as="geometry" />
+        <mxCell id="5oUdAyijGCzZewXP4lFF-8" value="全版本forge/版本模组一键添加器&lt;div&gt;（物品，方块，实体，装备等等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
