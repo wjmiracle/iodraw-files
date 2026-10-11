@@ -7,6 +7,9 @@
         <mxCell id="5oUdAyijGCzZewXP4lFF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-1" target="5oUdAyijGCzZewXP4lFF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5oUdAyijGCzZewXP4lFF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5oUdAyijGCzZewXP4lFF-1" target="5oUdAyijGCzZewXP4lFF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-1" value="1.20.1forge版本模组物品一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="210" height="90" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-20" value="1.20.1forge版本模组方块一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="210" height="80" as="geometry" />
+          <mxGeometry x="500" y="420" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5oUdAyijGCzZewXP4lFF-26" value="1.20.1forge版本模组。。。一键添加器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="420" width="210" height="80" as="geometry" />
