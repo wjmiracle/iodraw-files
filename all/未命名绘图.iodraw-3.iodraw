@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yB9Ee1ND7LNJxtODDhMI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yB9Ee1ND7LNJxtODDhMI-1" value="第一版：一个 Python 程序、一份 SQLite 数据库、一个 Git 仓库和一个简单的本地看板，就足以开始验证整套流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yB9Ee1ND7LNJxtODDhMI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yB9Ee1ND7LNJxtODDhMI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
