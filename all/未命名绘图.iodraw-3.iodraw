@@ -7,11 +7,14 @@
         <mxCell id="yB9Ee1ND7LNJxtODDhMI-1" value="第一版：一个 Python 程序、一份 SQLite 数据库、一个 Git 仓库和一个简单的本地看板，就足以开始验证整套流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="190" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="yB9Ee1ND7LNJxtODDhMI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yB9Ee1ND7LNJxtODDhMI-2" target="yB9Ee1ND7LNJxtODDhMI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yB9Ee1ND7LNJxtODDhMI-2" value="本地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yB9Ee1ND7LNJxtODDhMI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="yB9Ee1ND7LNJxtODDhMI-3" value="外出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
